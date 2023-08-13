@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714095999630",
+    "project_id": "noteworthy-79a91",
+    "storage_bucket": "noteworthy-79a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714095999630:android:978b336e6ce61d5ab427df",
+        "android_client_info": {
+          "package_name": "ng.tiwachannels.noteworthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714095999630-bdmi61306953rc58fpar79bl9u41eg42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdN3stXDRqN88SCIB5Uf53ZJHTvFFXMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714095999630-bdmi61306953rc58fpar79bl9u41eg42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
